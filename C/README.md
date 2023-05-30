@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Original - C (492 Images)
+# Plex Meta Manager People - Original - C (493 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/C.%20S.%20Forester.jpg)
@@ -48,6 +48,7 @@
 * [Carla Gugino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/Carla%20Gugino.jpg)
 * [Carleigh Bettiol](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/Carleigh%20Bettiol.jpg)
 * [Carlo Buccirosso](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/Carlo%20Buccirosso.jpg)
+* [Carlo Collodi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/Carlo%20Collodi.jpg)
 * [Carlo Marks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/Carlo%20Marks.jpg)
 * [Carlos Alazraqui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/Carlos%20Alazraqui.jpg)
 * [Carlos Guerrero](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/C/Images/Carlos%20Guerrero.jpg)
