@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Original - P (302 Images)
+# Plex Meta Manager People - Original - P (303 Images)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/P.J.%20Byrne.jpg)
@@ -271,6 +271,7 @@
 * [Pierce Brosnan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/Pierce%20Brosnan.jpg)
 * [Pierfrancesco Favino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/Pierfrancesco%20Favino.jpg)
 * [Pierre Even](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/Pierre%20Even.jpg)
+* [Pierre Tchernia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/Pierre%20Tchernia.jpg)
 * [Piers Morgan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/Piers%20Morgan.jpg)
 * [Pietro De Silva](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/Pietro%20De%20Silva.jpg)
 * [Pilar Savone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/P/Images/Pilar%20Savone.jpg)
