@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Original - H (173 Images)
+# Plex Meta Manager People - Original - H (174 Images)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/H.%20Jon%20Benjamin.jpg)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/Haaz%20Sleiman.jpg)
@@ -51,6 +51,7 @@
 * [Harold Sakata](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/Harold%20Sakata.jpg)
 * [Harper Dill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/Harper%20Dill.jpg)
 * [Harriet Sansom Harris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/Harriet%20Sansom%20Harris.jpg)
+* [Harriet Walter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/Harriet%20Walter.jpg)
 * [Harris Dickinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/Harris%20Dickinson.jpg)
 * [Harris Yulin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/Harris%20Yulin.jpg)
 * [Harrison Ford](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/H/Images/Harrison%20Ford.jpg)
