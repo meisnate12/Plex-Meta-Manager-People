@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Original - N (238 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/N/Images/%21_Images_grid.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)

@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Original - F (158 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/F/Images/%21_Images_grid.jpg)
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/F/Images/F.%20Gary%20Gray.jpg)

@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Original - U (15 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/U/Images/%21_Images_grid.jpg)
 * [Uday Krishna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/U/Images/Uday%20Krishna.jpg)

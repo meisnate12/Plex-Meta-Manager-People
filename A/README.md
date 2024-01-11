@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Original - A (701 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/A/Images/%21_Images_grid.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/A/Images/Aamir%20Khan.jpg)

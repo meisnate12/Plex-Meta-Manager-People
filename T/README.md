@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Original - T (405 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/T/Images/T.%20J.%20Miller.jpg)

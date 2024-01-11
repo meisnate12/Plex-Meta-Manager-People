@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Original - L (371 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/L/Images/L.%20Q.%20Jones.jpg)
