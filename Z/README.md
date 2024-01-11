@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Original - Z (46 Images)
+# Plex Meta Manager People - Original - Z (45 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/Z/Images/%21_Images_grid.jpg)
 * [Zac Efron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/Z/Images/Zach%20Baylin.jpg)
 * [Zach Cherry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People/master/Z/Images/Zach%20Cherry.jpg)
